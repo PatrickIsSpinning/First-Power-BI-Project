@@ -9,6 +9,7 @@ Project 2
 https://app.powerbi.com/groups/me/reports/dcbea7f6-6165-40b9-8723-6798b1cff26c/bc2ca46800a9d356e74a?experience=power-bi
 
 **Project 1- Data Analysis of Global Superstore**
+
 Included the total sum of sales of the products that have been returned, with the corresponding sale price per product, Oder ID. 
 ![image](https://github.com/user-attachments/assets/1b35d556-9261-4503-8b73-729518053da6)
 
